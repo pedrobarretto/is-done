@@ -51,13 +51,5 @@
         "import/resolver": {
           "typescript": {}
         }
-    },
-    "@typescript-eslint/quotes": [
-        "error",
-        "single",
-        {
-          "avoidEscape": true,
-          "allowTemplateLiterals": true
-        }
-    ]
+    }
 }
